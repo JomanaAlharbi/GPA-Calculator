@@ -12,6 +12,7 @@ echo
 الدرجة الأولى: 80
 الدرجة الثانية: 100
 الدرجة الثالثة: 75
-Screenshot
+
+# Screenshot
 <img width="339" height="144" alt="image" src="https://github.com/user-attachments/assets/f51137f8-c67a-4da4-9b9f-92f40a628dfb" />
 
